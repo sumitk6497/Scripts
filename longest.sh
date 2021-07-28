@@ -10,3 +10,4 @@ do
 done
 echo "longest line : $max"
 unset max
+
